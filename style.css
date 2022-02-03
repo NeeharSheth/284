@@ -1,0 +1,11 @@
+body{
+    font-family: 'Supermercado One', cursive;
+}
+
+#conserve-reasons{
+    margin-bottom: 1000px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
